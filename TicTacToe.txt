@@ -1,5 +1,6 @@
 Create a TicTacToe game using python
 
 Things to do:
-- Design the logic behind the game, the win, lose and tie conditions +
++ Design the logic behind the game, the win, lose and tie conditions
+
 - Create the GUI for the same
