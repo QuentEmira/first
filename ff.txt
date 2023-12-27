@@ -1,0 +1,16 @@
+distributor has multiple (DSM) distributor salesman
+
+DSM expected to cover 40 outlets (35-45)
+
+Planned cluster is the cluster covered on one day.
+
+dsm goes to store, gets details, and enters what is needed.
+before this, the store is geotagged.
+
+the missing lat and long needs to be kind of randomised
+
+time motion study
+b
+productive outlets
+
+take care of deviation
